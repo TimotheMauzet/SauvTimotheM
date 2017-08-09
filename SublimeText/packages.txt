@@ -1,0 +1,10 @@
+- Packages Control
+    - Alignment
+    - Color Highlighter
+    - DocBlockr
+    - Alignment
+    - Emmet
+    - Material theme
+    - Side Bar Enhancement
+    - SublimeCodeIntel
+    - Color Picker
