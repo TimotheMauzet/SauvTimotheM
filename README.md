@@ -17,14 +17,17 @@ J'ai créé ce dépôt github pour faire des sauvegardes de configuration que j'
     - VirtualBox
     - Office 2016
     - Dropbox
+    
     - [x] IDE
         - Sublime Text 3
         - PhpStorm
+        
     - [x] Navigateur
         - Google chrôme
         - Mozilla Firefox
         - Opera
         - Vivaldi
+        
     - [x] Jeux
         - Albion Online
         - World of Warcraft
