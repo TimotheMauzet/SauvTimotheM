@@ -11,6 +11,9 @@ J'ai créé ce dépôt github pour faire des sauvegardes de configuration que j'
     - Color Scheme (.icls)
     - Packages
     
+- Google Chrôme
+    - Plugins   
+    
 ---
     
 - Logiciels
