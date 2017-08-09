@@ -4,9 +4,16 @@ J'ai créé ce dépôt github pour faire des sauvegardes de configuration que j'
 
 ## Détails
 
-- [x] Sublime Text
-    - [x] Configuration users et packages
-- [x] Logiciels
+- SublimeText/
+    - Configuration users et packages
+    
+- PhpStorm/
+    - Color Scheme (.icls)
+    - Packages
+    
+---
+    
+- Logiciels
     - Babun
     - Photoshop
     - Git
@@ -16,15 +23,15 @@ J'ai créé ce dépôt github pour faire des sauvegardes de configuration que j'
     - VirtualBox
     - Office 2016
     - Dropbox    
-    - [x] IDE
+    - IDE
         - Sublime Text 3
         - PhpStorm        
-    - [x] Navigateur
+    - Navigateur
         - Google chrôme
         - Mozilla Firefox
         - Opera
         - Vivaldi        
-    - [x] Jeux
+    - Jeux
         - Albion Online
         - World of Warcraft
         - Twitch
